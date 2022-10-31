@@ -49,4 +49,4 @@ function generateRefreshToken(user) {
     });
     refreshTokens.push(refreshToken);
     return refreshToken;
-}
+};
